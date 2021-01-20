@@ -1,0 +1,3 @@
+python Candel-Stick-learning.py "EURUSD" "MN"
+
+{MN,W,D,H12,H}
